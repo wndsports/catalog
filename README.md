@@ -1,2 +1,2 @@
-# catalog
-第二个静态catalgo
+# Paddle in Tibet
+第二个静态 site
