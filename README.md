@@ -150,6 +150,7 @@
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><strong><span style="font-size: 20px; color: #000000;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">We</span> offer you:&nbsp;</span></strong></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
 </td>
 </tr>
 </tbody>
@@ -351,10 +352,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="600" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_56_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 198; display: block;" width="100%" height="198"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_11" src="https://github.com/wndsports/Alubumn.github.io/blob/main/1_11.png?raw=true" iout_block_56_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
-<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img " align="left" alt="1_11" src="https://github.com/wndsports/Alubumn.github.io/blob/main/1_11.png?raw=true" iout_block_56_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 600px !important;" /></div>
-<!--<![endif]--></div>
-<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+<div id="wout_block_56_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 198; display: block;" width="100%" height="198"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_11" src="https://github.com/wndsports/Alubumn.github.io/blob/main/1_11.png?raw=true" iout_block_56_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
 </td>
 </tr>
 </tbody>
@@ -371,10 +369,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="600" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 207; display: block;" width="100%" height="207"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_12" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1_12.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
-<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img " align="left" alt="1_12" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1_12.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 600px !important;" /></div>
-<!--<![endif]--></div>
-<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 207; display: block;" width="100%" height="207"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_12" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1_12.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
 </td>
 </tr>
 </tbody>
