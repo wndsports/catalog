@@ -28,7 +28,7 @@
 </tr>
 </tbody>
 </table>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://s7839000.sendpul.se/image/747991a0e145ac2bbe69f063a9402e69/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1&quot;2.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://github.com/wndsports/Alubumn.github.io/blob/main/1_02.png?raw=true'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
 <tbody>
 <tr style="border-color: transparent;">
 <td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
@@ -65,7 +65,7 @@
 </tr>
 </tbody>
 </table>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://s7839000.sendpul.se/image/747991a0e145ac2bbe69f063a9402e69/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1&quot;4_adec2819.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://github.com/wndsports/Alubumn.github.io/blob/main/1_04.png?raw=true'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
 <tbody>
 <tr style="border-color: transparent;">
 <td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
@@ -84,7 +84,7 @@
 </tr>
 </tbody>
 </table>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: transparent; background-image: url('https://s7839000.sendpul.se/image/747991a0e145ac2bbe69f063a9402e69/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1&quot;5.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: transparent; background-image: url('https://raw.githubusercontent.com/wndsports/Alubumn.github.io/9ed05fd8e5e2afdf8dbb0579d6405755f4de9331/1_05.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;">
 <tbody>
 <tr style="border-color: transparent;">
 <td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
@@ -141,7 +141,7 @@
 </tr>
 </tbody>
 </table>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://s7839000.sendpul.se/image/747991a0e145ac2bbe69f063a9402e69/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1&quot;7.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; background-image: url('https://raw.githubusercontent.com/wndsports/Alubumn.github.io/9ed05fd8e5e2afdf8dbb0579d6405755f4de9331/1_07.png'); background-repeat: no-repeat; background-position: left top; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
 <tbody>
 <tr style="border-color: transparent;">
 <td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
@@ -249,8 +249,8 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="200" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_17_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 64; display: block; text-align: center;" width="100%" height="64" align="center"><center><img border="0" width="64" height="auto" class="desktop  sp-img small_img smallImg " align="center" alt="feather" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/feather.png" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
-<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img smallImg " align="center" alt="feather" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/feather.png" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 64px !important;" /></div>
+<div id="wout_block_17_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 64; display: block; text-align: center;" width="100%" height="64" align="center"><center><img border="0" width="64" height="auto" class="desktop  sp-img small_img smallImg " align="center" alt="feather" src="" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img smallImg " align="center" alt="feather" src="https://github.com/wndsports/Alubumn.github.io/blob/9ed05fd8e5e2afdf8dbb0579d6405755f4de9331/feather.png?raw=true" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 64px !important;" /></div>
 <!--<![endif]--></center></div>
 <div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
 </td>
@@ -307,8 +307,8 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="200" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 64; display: block; text-align: center;" width="100%" height="64" align="center"><center><img border="0" width="64" height="auto" class="desktop  sp-img small_img smallImg " align="center" alt="diamond" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/diamond.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
-<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img smallImg " align="center" alt="diamond" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/diamond.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 64px !important;" /></div>
+<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 64; display: block; text-align: center;" width="100%" height="64" align="center"><center><img border="0" width="64" height="auto" class="desktop  sp-img small_img smallImg " align="center" alt="diamond" src="https://github.com/wndsports/Alubumn.github.io/blob/9ed05fd8e5e2afdf8dbb0579d6405755f4de9331/diamond.png?raw=true" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img smallImg " align="center" alt="diamond" src="https://github.com/wndsports/Alubumn.github.io/blob/9ed05fd8e5e2afdf8dbb0579d6405755f4de9331/diamond.png?raw=true" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 64px !important;" /></div>
 <!--<![endif]--></center></div>
 <div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
 </td>
@@ -369,7 +369,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="600" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 207; display: block;" width="100%" height="207"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_12" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/1_12.png" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
+<div id="wout_block_20_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 207; display: block;" width="100%" height="207"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="1_12" src="https://github.com/wndsports/Alubumn.github.io/blob/main/1_12.png?raw=true" iout_block_20_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
 </td>
 </tr>
 </tbody>
